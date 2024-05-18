@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\bin\Debug\Yas_Hesaplama.exe.config
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\bin\Debug\Yas_Hesaplama.exe
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\bin\Debug\Yas_Hesaplama.pdb
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\obj\Debug\Yas_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\obj\Debug\Yas_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\obj\Debug\Yas_Hesaplama.exe
+C:\Users\VULKAN\Desktop\udemy\Yas_Hesaplama\Yas_Hesaplama\obj\Debug\Yas_Hesaplama.pdb
